@@ -1,0 +1,24 @@
+{
+  "name": "upgrade-materializecss",
+  "authors": [
+    "Surendra Kumar <surendrakhatikk24@gmail.com>"
+  ],
+  "version": "0.1.2",
+  "description": "This is based on materializecss. Some custom modification is there. Thank you @materializecss",
+  "main": "materialize.js",
+  "moduleType": [],
+  "keywords": [
+    "materialize",
+    "datepicker",
+    "change"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
